@@ -9,6 +9,7 @@
 }
 
 .navElement {
+  float: left;
   margin-left: 25%;
   transform: translateX (-50%);
 }
