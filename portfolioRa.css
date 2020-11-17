@@ -193,7 +193,7 @@ button:active{
   overflow: hidden;
   margin: 5vw auto;
   border-radius: 20px;
-  box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+  box-shadow: 2px 2px 12px rgba(0,0,0,0.05);
 }
 .works-container h2{
   font-family: gill sans;
@@ -208,6 +208,10 @@ button:active{
 .works-container{
   position: relative;
   height: auto !important;
+}
+.card-hover:hover{
+  transform: scale(1.5%);
+  box-shadow: 6px 6px 20px rgba(0,0,0,0.3);
 }
 footer{
   height: 20vh;
