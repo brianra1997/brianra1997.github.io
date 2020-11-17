@@ -213,6 +213,17 @@ button:active{
   transform: scale(1.5%);
   box-shadow: 6px 6px 20px rgba(0,0,0,0.3);
 }
+#project-header{
+  height: 5vh;
+  width: 100%;
+}
+#project-header h2{
+  font-family: gill sans;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
 footer{
   height: 20vh;
   display: flex;
