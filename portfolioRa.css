@@ -139,12 +139,21 @@ button:active{
   font-size: 18px;
 }
 .works-preview {
-  height:2200px;
-  background-color: #ffffff;
-  padding: 2% 10% 50px 10%;
+  height:27vw;
   display: block;
-margin-left: auto;
-margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+.works-preview img{
+  float: right;
+  width: 30vw;
+}
+.works-name{
+  float: left;
+  width: 30vw;
+  position: relative;
 }
 .works-text h2{
   font-family: gill sans;
@@ -159,18 +168,32 @@ margin-right: auto;
   color:#7e7e7d;
 }
 .works-text {
-  width:500px;
-  margin:50px 0px;
+  width: 500px;
+  top: 22%;
+  position: relative;
+  float: left;
 }
 .works-container img{
-    width: 60%;
-    height: auto%;
-    display: block;
+  width: 100%;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
+.works-image-container{
+  float: right;
+  width: 30vw;
+}
 .project-container{
-  padding-top: 50px;
+  margin-top: 20vw;
+  height: auto;
+  padding: 60px;
+  position: relative;
+  width: 70vw;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  margin: 5vw auto;
+  border-radius: 20px;
+  box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
 }
 .works-container h2{
   font-family: gill sans;
@@ -182,15 +205,20 @@ margin-right: auto;
   font-size: 18px;
   color:#7e7e7d;
 }
+.works-container{
+  position: relative;
+  height: auto !important;
+}
 footer{
-  height: 250px;
+  height: 20vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
-  position: relative;
-  bottom: 0;
-  width: 100%;
+  position: absolute;
+  left: 0vw;
+  width: 100vw;
+  background-color: #dadada;
 }
 footer h2{
   font-family: gill sans;
@@ -205,6 +233,7 @@ footer p{
   text-align: center;
 }
 .social-icons a{
+  flex-direction: row;
   width: 40px;
   height:40px;
   display: flex;
@@ -215,12 +244,20 @@ footer p{
   border-radius: 50%
 }
 .social-icons {
+  flex-direction: row;
   display: flex;
 }
 .copyright{
   color: #565555;
   font-size: 15px;
   position: absolute;
-  right: 68%;
+  right: 70vw;
   bottom:10px;
+}
+
+.right {
+  float: right;
+}
+.left {
+  float: left;
 }
