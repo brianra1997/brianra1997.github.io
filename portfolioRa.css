@@ -198,7 +198,7 @@ button:active{
   font-size: 30px;
   font-weight: bold;
 }
-.works-container h3{
+.works-container p{
   font-family: gill sans;
   font-size: 18px;
   color:#7e7e7d;
@@ -228,9 +228,9 @@ footer{
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  position: absolute;
   left: 0vw;
   width: 100vw;
+  margin-top: 20vh;
 }
 footer p{
   font-family: gill sans;
@@ -270,17 +270,19 @@ footer p{
 .image-container img{
   width: 30vw;
   height: auto;
+  box-shadow:2px 2px 12px rgba(0,0,0,0.2);
 }
 .image-container{
   position: absolute;
   left: 8%;
-  top: 42%;
+  top: 50%;
   transform: translate(-5%,-42%);
 }
 .about-container{
   width: 54vw;
   margin-top: 2vh;
   margin-right: 3vw;
+  padding-bottom: 5vh;
 }
 .about-container h1{
   font-family: Gill Sans;
@@ -304,7 +306,25 @@ footer p{
 .skills-section {
   width: 100%;
   height: auto;
+  position: relative;
+  overflow: hidden;
 }
 .skills {
-
+  margin-left: 25vw;
+}
+.skills ul{
+  margin-left: -3vw;
+  list-style-type: disc;
+}
+.achievements{
+  margin-right: 25vw;
+}
+.achievements ul{
+  margin-left:-3vw;
+  list-style-type: disc;
+}
+.skills-section ul li{
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:15px;
 }
