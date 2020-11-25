@@ -724,6 +724,9 @@ display: block;
   margin-left: 8vw;
   margin-bottom: 5vh;
 }
+.refinements {
+  background-color: #ffffff;
+}
 .refinements h2{
   font-family: Gill Sans;
   font-weight: bold;
@@ -742,3 +745,63 @@ display: block;
   margin-left: 15vw;
   margin-right: 15vw;
 }
+.user-testing h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.user-testing p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.final-design {
+  background-color: #ffffff;
+}
+.final-design h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.final-design p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.takeaway h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.takeaway p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.takeaway-image-container{
+    background-color: #ffffff;
+  }
