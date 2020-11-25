@@ -328,3 +328,354 @@ footer p{
   color:#505050;
   font-size:15px;
 }
+/* Student Abroad (project 1) */
+.project-intro {
+  width: 100vw;
+  height: auto;
+  padding-top: 5vh;
+  text-align: center;
+}
+.project-intro-background {
+  background-color: #ffffff;
+  padding-bottom: 5vh;
+}
+.project-intro h1{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 30px;
+}
+.project-intro h2 {
+  font-family: gill sans;
+  font-weight: normal;
+  color:#3e3e3d;
+  font-size: 18px;
+  line-height:0px;
+  padding-bottom: 5vh;
+}
+.project-image-container img {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.project-image-container {
+  padding-top: 5vh;
+}
+
+table {
+  margin-top: 5vh;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10vh;
+}
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+}
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+th, td {
+  text-align: center;
+  width: 300px;
+}
+.project-premise {
+  margin-top: 10vh;
+}
+.project-premise h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+}
+.project-premise p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 10vw;
+}
+.project-premise-content {
+  float: left;
+  width: 50vw;
+  height: auto;
+  margin-left: 5vw;
+}
+.project-premise-image-container img{
+  width: 50%;
+  height: auto;
+  margin-right: -10vw;
+}
+.project-premise-image-container {
+  float: right;
+}
+.project-premise-image-container p{
+  margin-right: 5vw;
+  font-size: 12px;
+  margin-left: 0;
+}
+.team {
+  background-color: #ffffff;
+  height: auto;
+  width: 100vw;
+  margin-top: 70vh;
+  padding-bottom: 5vh;
+}
+.team h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+}
+table img{
+  width: 60%;
+}
+.team-member-name {
+  font-weight: bold !important;
+}
+.team td{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+}
+.research h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.research p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.research-image-container img{
+  width: 40%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 10vh;
+}
+.research-image-container p{
+  font-size: 12px;
+  margin-left: 30vw;
+}
+.research-image-container {
+  margin-bottom: 5vh;
+}
+.research-image-container-2 {
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+}
+.research-image-container-2 img{
+  width: 30%;
+  height: auto;
+  margin-left: 15vw;
+  margin-right: -5vw;
+}
+.modeling {
+  display: block;
+  background-color: #ffffff;
+  height: 77vh;
+}
+.modeling h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.modeling p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.modeling h3{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #1a1a1a;
+  font-size: 18px;
+}
+.modeling ul{
+  list-style-type: disc;
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:15px;
+}
+.modeling li{
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:18px;
+  line-height: 20px;
+}
+.modeling-content-container {
+  float: left;
+  height: auto;
+  width: 30vw;
+  margin-left: 16vw;
+}
+.modeling-image-container {
+  float: right;
+  height: auto;
+  width: 30vw;
+  margin-right: 8vw;
+}
+.modeling-image-container img{
+  width: 85%;
+  height: auto;
+}
+.personas {
+display: block;
+}
+.personas p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.personas h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.persona-column img{
+  width: 60%;
+  height: auto;
+}
+.persona-column {
+  display: block;
+  margin-left: 15vw;
+  margin-top: 5vh;
+}
+.persona-emma{
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
+.persona-sienna{
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
+.persona-liam{
+  width: 30%;
+  height: auto;
+  display: inline-block;
+}
+.persona-column h3{
+  font-family: Gill Sans;
+  font-weight: bold;
+  color: #1a1a1a;
+  font-size: 18px;
+}
+.persona-column ul{
+  list-style-type: disc;
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:15px;
+  margin-right: 10vw;
+}
+.persona-column h4{
+  font-family: Gill Sans;
+  font-weight: bold;
+  color: #1a1a1a;
+  font-size: 18px;
+}
+.persona-column p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 14px;
+  margin-left: 0px !important;
+  margin-right: 60px !important;
+}
+.requirements {
+  background-color: #ffffff;
+  height: 90vh;
+}
+.requirements h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.requirements p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.requirements-list {
+  float: left;
+  width: 30vw;
+  margin-left: 20vw;
+}
+.requirements-image-container {
+  float: right;
+  width: 30vw;
+  margin-right: 10vw;
+}
+.requirements-image-container img {
+  width: 90%;
+  height: auto;
+}
+.requirements ul{
+  list-style-type: disc;
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:15px;
+}
+.requirements li{
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:18px;
+  line-height: 20px;
+}
+.requirements h3{
+  font-family: Gill Sans;
+  font-weight: bold;
+  color: #1a1a1a;
+  font-size: 18px;
+}
+.requirements-bottom-text{
+  margin-top: 40vh;
+  margin-right: 15vw;
+}
