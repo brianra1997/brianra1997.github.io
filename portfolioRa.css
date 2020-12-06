@@ -563,6 +563,13 @@ table img{
   width: 85%;
   height: auto;
 }
+.modeling-image-container p{
+  font-size: 12px;
+  margin-left: 0vw !important;
+  margin-right: 0vw !important;
+  float:right;
+
+}
 .personas {
 display: block;
 }
@@ -670,6 +677,7 @@ display: block;
 .requirements-image-container img {
   width: 90%;
   height: auto;
+  margin-left: 2vw;
 }
 .requirements ul{
   list-style-type: disc;
@@ -689,9 +697,15 @@ display: block;
   color: #1a1a1a;
   font-size: 18px;
 }
+.requirements-image-container p{
+  font-size: 12px;
+  float: right;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
 .requirements-bottom-text{
   margin-top: 40vh;
-  margin-right: 15vw;
+  margin-right: 20vw !important;
 }
 .framework h2{
   font-family: Gill Sans;
@@ -738,6 +752,10 @@ display: block;
   margin-left: 8vw;
   margin-bottom: 5vh;
 }
+.framework-image-container p{
+  font-size: 12px;
+  margin-left: 25vw;
+}
 .refinements {
   background-color: #ffffff;
 }
@@ -759,6 +777,19 @@ display: block;
   margin-left: 15vw;
   margin-right: 15vw;
 }
+.refinements-image-container img{
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.refinements-caption p{
+  font-size: 12px;
+  margin-left: 26vw;
+  margin-top: -1vh;
+  padding-bottom: 5vh;
+}
 .user-testing h2{
   font-family: Gill Sans;
   font-weight: bold;
@@ -766,7 +797,7 @@ display: block;
   color: #1a1a1a;
   font-size: 24px;
   text-align: center;
-  padding-top: 5vh;
+  padding-top: 1vh;
   padding-bottom: 5vh;
 }
 .user-testing p{
@@ -776,6 +807,34 @@ display: block;
   font-size: 18px;
   margin-left: 15vw;
   margin-right: 15vw;
+}
+.user-testing-image-container img{
+  width: 35%;
+  height: auto;
+  margin-left: 8vw;
+  margin-right: 5vw;
+  display: inline-block;
+}
+.user-testing-image-container {
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+}
+.user-testing-image-container-2 {
+  margin-bottom: 4vh;
+  margin-top: 5vh;
+}
+.user-testing-image-container-2 img{
+  width: 35%;
+  height: auto;
+  margin-left: 33vw;
+}
+.user-testing-image-container p{
+  font-size: 12px;
+  margin-left: 8vw !important;
+}
+.user-testing-image-container-2 p{
+  font-size: 12px;
+  margin-left: 33vw !important;
 }
 .final-design {
   background-color: #ffffff;
@@ -798,6 +857,22 @@ display: block;
   margin-left: 15vw;
   margin-right: 15vw;
 }
+.final-image-container img{
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-bottom: 5vh;
+  padding-top: 3vh;
+}
+.final-caption p{
+  margin-left: 25vw;
+  font-size: 12px;
+  font-family: gill sans;
+  margin-top: -3vh;
+  padding-bottom: 4vh;
+}
 .takeaway h2{
   font-family: Gill Sans;
   font-weight: bold;
@@ -817,5 +892,30 @@ display: block;
   margin-right: 15vw;
 }
 .takeaway-image-container{
-    background-color: #ffffff;
+    margin-left: 40vw;
   }
+.takeaway-image-container img{
+    width: 35%;
+    height: auto;
+}
+.takeaway-caption{
+  margin-left: 40vw;
+  font-size: 14px;
+  font-family: gill sans;
+}
+footer{
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  left: 0vw;
+  width: 100vw;
+  margin-top: 40vh;
+  background-color: black;
+}
+footer p{
+  font-family: gill sans;
+  color: #ffffff;
+  text-align: center;
+}
