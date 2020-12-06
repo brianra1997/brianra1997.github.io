@@ -982,7 +982,7 @@ footer p{
   font-size: 18px;
 }
 .tatwho-sprint-1{
-  margin-bottom: 5vh;
+  margin-bottom: 12vh;
 }
 .tatwho-sprint-1 h2{
   font-family: Gill Sans;
@@ -1042,5 +1042,35 @@ footer p{
   margin-left: 8vw !important;
   width: 80%;
   padding-top: 3vh;
-  padding-bottom: 3vh;
+  padding-bottom: 5vh;
+}
+.tatwho-assumptions {
+  background-color: #ffffff;
+  padding-bottom: 5vh;
+}
+.tatwho-assumptions h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.assumptions-image-container img{
+    margin-left: 9vw;
+    margin-right: 5vw;
+    display: inline-block;
+}
+.tatwho-assumptions p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.assumptions-image-container p{
+  font-size: 12px;
 }
