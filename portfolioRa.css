@@ -1448,7 +1448,7 @@ footer p{
 }
 .final-testing {
   background-color: #ffffff;
-  height: 165vh;
+  height: 190vh;
 }
 .final-testing h2{
   font-family: Gill Sans;
@@ -1474,13 +1474,14 @@ footer p{
   margin-left: 20vw;
   margin-top: 5vh;
 }
-.final-testing-image-container {
+.final-testing-image-container{
   float: right;
   width: 30vw;
+  height: auto;
   margin-right: 10vw;
 }
-.final-testing-image-container img {
-  width: 300px;
+.final-testing-image-container img{
+  width: 50%;
   height: auto;
   margin-left: 2vw;
   margin-top: 8vh;
@@ -1510,8 +1511,9 @@ footer p{
   margin-right: 0 !important;
 }
 .final-testing-bottom-text{
-  margin-top: 30vh;
-  margin-right: 25vw !important;
+  margin-top: 20vh;
+  margin-right: 35vw !important;
+  margin-left: 5vw;
 }
 .final-testing-image-container-2 {
   margin-bottom: -1vh;
@@ -1520,12 +1522,52 @@ footer p{
 .final-testing-image-container-2 img{
   width: 20%;
   height: auto;
-  margin-left: 12vw;
-  margin-right: 4vw;
+  margin-left: 20vw;
+  margin-right: 0vw;
   display: inline-block;
 }
 .final-testing-caption p{
   font-size: 12px;
-  margin-left: 12vw;
+  margin-left: 20vw;
   margin-bottom: 5vh;
+}
+.final-testing-caption-2 p{
+  font-size: 12px;
+  margin-right: 12vw !important;
+  margin-top: -10vh;
+}
+.tatwho-takeaway{
+  margin-bottom: 12vh;
+}
+.tatwho-takeaway h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.tatwho-takeaway h3{
+  font-family: Gill Sans;
+  font-weight: bold;
+  color: #1a1a1a;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 8vh;
+}
+.tatwho-takeaway p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.tatwho-takeaway p:nth-child(3){
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
