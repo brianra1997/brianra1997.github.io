@@ -919,3 +919,128 @@ footer p{
   color: #ffffff;
   text-align: center;
 }
+/* TatWho*/
+.tatwho-premise {
+  margin-top: 6vh;
+}
+.tatwho-premise h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+}
+.tatwho-premise p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #ffffff;
+  font-size: 18px;
+}
+.tatwho-premise-content {
+   bottom: 15vh;
+   background-color: black;
+   padding-left: 20px;
+   padding-right: 20px;
+   position: absolute;
+   margin-left: 3vw;
+   margin-right: 3vw;
+}
+.tatwho-premise-image-container{
+  width: 50%;
+  position: relative;
+  margin: 0 auto;
+}
+.tatwho-premise-image-container img{
+  width: 100%;
+  position: relative;
+  margin: 0 auto;
+}
+.tatwho-team {
+  background-color: #ffffff;
+  height: auto;
+  width: 100vw;
+  margin-top: 10vh;
+  padding-bottom: 5vh;
+}
+.tatwho-team h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+}
+.team-member-name {
+  font-weight: bold !important;
+}
+.team td{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+}
+.tatwho-sprint-1{
+  margin-bottom: 5vh;
+}
+.tatwho-sprint-1 h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.tatwho-sprint-1 h3{
+  font-family: Gill Sans;
+  font-weight: bold;
+  color: #1a1a1a;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 8vh;
+}
+.tatwho-sprint-1 p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.tatwho-sprint-1-image-container p{
+  font-size: 12px;
+  margin-left: 30vw;
+}
+.sprint-1-objective-container ul{
+    list-style-type: disc;
+    font-family:Gill Sans;
+    color:#505050;
+    font-size:15px;
+  }
+.sprint-1-objective-container li{
+    font-family:Gill Sans;
+    color:#505050;
+    font-size:18px;
+    line-height: 20px;
+  }
+.sprint-1-objective-container{
+  margin-left: 25vw;
+  margin-top: 8vh;
+  width: 50vw;
+}
+.product-statement-text{
+  background-color: black;
+  margin-right: 15vw !important;
+  margin-left: 12vw !important;
+  border-radius: 5px;
+}
+.product-statement-text p{
+  color: #ffffff;
+  margin-left: 8vw !important;
+  width: 80%;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
