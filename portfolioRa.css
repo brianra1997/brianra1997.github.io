@@ -960,6 +960,12 @@ footer p{
   position: relative;
   margin: 0 auto;
 }
+.tatwho-team td{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+}
 .tatwho-team {
   background-color: #ffffff;
   height: auto;
