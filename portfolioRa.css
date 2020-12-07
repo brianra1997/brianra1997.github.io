@@ -1571,3 +1571,350 @@ footer p{
   margin-right: auto;
   display: block;
 }
+/*MUSE*/
+.muse-premise h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+}
+.muse-premise p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 10vw;
+}
+.muse-premise-content {
+  float: left;
+  width: 50vw;
+  height: auto;
+  margin-left: 5vw;
+}
+.muse-premise-image-container img{
+  width: 50%;
+  height: auto;
+  margin-right: -10vw;
+}
+.muse-premise-image-container {
+  float: right;
+}
+.muse-premise-image-container p{
+  margin-right: 5vw;
+  font-size: 12px;
+  margin-left: 0;
+}
+.muse-team {
+  background-color: #ffffff;
+  height: auto;
+  width: 100vw;
+  margin-top: 50vh;
+  padding-bottom: 5vh;
+}
+.muse-team h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+}
+.team-member-name {
+  font-weight: bold !important;
+}
+.muse-team td{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+}
+.muse-research h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.muse-research p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.muse-research-image-container img{
+  width: 40%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 10vh;
+}
+.muse-research-image-container p{
+  font-size: 12px;
+  margin-left: 30vw;
+}
+.muse-research-image-container {
+  margin-bottom: 5vh;
+}
+.muse-research-image-container-2 {
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+}
+.muse-research-image-container-2 img{
+  width: 40%;
+  height: auto;
+  margin-left: 8vw;
+  margin-right: -5vw;
+}
+.muse-requirements {
+  background-color: #ffffff;
+  height: 90vh;
+}
+.muse-requirements h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.muse-requirements p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.muse-requirements-list {
+  float: left;
+  width: 30vw;
+  margin-left: 20vw;
+}
+.muse-requirements-image-container {
+  float: right;
+  width: 30vw;
+  margin-right: 10vw;
+}
+.muse-requirements-image-container img {
+  width: 95%;
+  height: auto;
+  margin-left: 2vw;
+}
+.muse-requirements ul{
+  list-style-type: disc;
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:15px;
+}
+.muse-requirements li{
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:18px;
+  line-height: 20px;
+}
+.muse-requirements h3{
+  font-family: Gill Sans;
+  font-weight: bold;
+  color: #1a1a1a;
+  font-size: 18px;
+}
+.muse-requirements-image-container p{
+  font-size: 12px;
+  float: right;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.muse-requirements-bottom-text{
+  margin-top: 40vh;
+  margin-right: 46vw !important;
+}
+.muse-framework h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.muse-framework p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.muse-framework-image-container img{
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.muse-framework-image-container {
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+}
+.muse-framework-image-container-2 {
+  margin-bottom: -1vh;
+  margin-top: 5vh;
+}
+.muse-framework-image-container-2 img{
+  width: 35%;
+  height: auto;
+  margin-left: 12vw;
+  margin-right: 3vw;
+  display: inline-block;
+}
+.muse-framework-caption p{
+  font-size: 12px;
+  margin-left: 12vw;
+  margin-bottom: 5vh;
+}
+.muse-framework-image-container p{
+  font-size: 12px;
+  margin-left: 25vw;
+}
+.medium-fidelity {
+  background-color: #ffffff;
+}
+.medium-fidelity h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.medium-fidelity p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.medium-fidelity-image-container img{
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.medium-fidelity-caption p{
+  font-size: 12px;
+  margin-left: 26vw;
+  margin-top: 1vh;
+  padding-bottom: 5vh;
+}
+.muse-medium-fidelity-image-container img{
+  width: 50%;
+  height: auto;
+  margin-left: 25vw;
+  display: inline-block;
+}
+.muse-medium-fidelity-image-container {
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+}
+.muse-medium-fidelity-caption p{
+  font-size: 12px;
+  margin-left: 26vw;
+  margin-top: 1vh;
+  padding-bottom: 5vh;
+}
+.muse-reiterate-list{
+  width: 90vw;
+  margin-left: 15vw;
+  float: none;
+  margin-bottom: 8vh;
+}
+.muse-reiterate {
+  background-color: #ffffff;
+  height: 120vh;
+}
+.muse-reiterate h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+.muse-reiterate p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.muse-reiterate ul{
+  list-style-type: disc;
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:15px;
+}
+.muse-reiterate li{
+  font-family:Gill Sans;
+  color:#505050;
+  font-size:18px;
+  line-height: 20px;
+}
+.muse-reiterate h3{
+  font-family: Gill Sans;
+  font-weight: bold;
+  color: #1a1a1a;
+  font-size: 18px;
+}
+.muse-takeaway h2{
+  font-family: Gill Sans;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 12vh;
+  padding-bottom: 5vh;
+}
+.muse-takeaway p{
+  font-family: Gill Sans;
+  font-weight: normal;
+  color: #6d6d6d;
+  font-size: 18px;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.muse-takeaway-image-container img{
+    width: 30%;
+    height: auto;
+    margin-left: 35vw;
+}
+.muse-takeaway-caption{
+  margin-left: 23vw;
+  font-size: 14px;
+  font-family: gill sans;
+}
+.muse-reiterate-caption p{
+  font-size: 12px;
+  margin-left: 26vw;
+  margin-top: 1vh;
+  padding-bottom: 5vh;
+}
